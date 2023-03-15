@@ -1,7 +1,9 @@
 # Boolworm-Counting
 
 <div style="width: 40%; height: 30%">
+  
 ![Bollworm-Medium-larvae-0162](https://user-images.githubusercontent.com/98299478/225265857-9b214d29-c384-4fff-8785-2e7422593811.jpg)
+  
 </div>
 
 
