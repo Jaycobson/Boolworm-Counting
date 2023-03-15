@@ -1,6 +1,6 @@
 # Boolworm-Counting![Bollworm-Medium-larvae-0162](https://user-images.githubusercontent.com/98299478/225265304-b0d3c57e-bf34-40dd-ada7-9cc01f803b20.jpg)
 
-![Bollworm-Medium-larvae-0162](https://user-images.githubusercontent.com/98299478/225265377-0953891b-e41f-49b2-a8bf-9e7b0c044a35.jpg)
+![Bollworm-Medium-larvae-0162](https://user-images.githubusercontent.com/98299478/225265707-ddc63f1e-1fe9-4406-a6d1-0b5cab75af60.jpg)
 
 During the kharif season of 2017, cotton farmers across India lost large portions of their crop to a pest known as bollworms. Since then, farmers have been encouraged to install pheromone traps in their fields as part of a larger effort to control the problem. Pheromone traps capture male bollworms that are capable of reproducing. By counting the number of bollworms caught in such traps, farmers can estimate potential bollworm infestation to make informed decisions about whether pesticides should be applied to minimize future damage.
 
